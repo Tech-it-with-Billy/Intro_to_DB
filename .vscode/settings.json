@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "alx_book_store",
+            "database": "alx_book_store",
+            "username": "root"
+        }
+    ],
+    "cSpell.words": [
+        "mycursor",
+        "mydb",
+        "orderdetailid"
+    ]
+}
